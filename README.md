@@ -21,6 +21,9 @@ The bot can only be accessed on a specified discord guild.
 
 - Create a discord bot (I'm not going to explain that here)
 - Clone the repo
+- Create a virtual environment with `python3 -m venv venv`
+- Activate the environment with `source ./venv/bin/activate`
+- Install requirements with `pip install -r requirements.txt`
 - Edit /rconbot/main.py
 - You can change all variables written in upper case letters
 - Make sure that RCON is activated in the server.properties
